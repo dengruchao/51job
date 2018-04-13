@@ -46,8 +46,8 @@ if __name__ == '__main__':
             db_name = f
             break
     dv = DataVisual(db_name)
-    #dv.spec_wc('python')
+    dv.spec_wc('python')
     #dv.spec_wc('cpp')
     #dv.spec_wc('人工智能')
     #dv.spec_wc('大数据')
-    dv.spec_wc('web后端')
+    #dv.spec_wc('web后端')

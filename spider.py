@@ -149,9 +149,9 @@ class Job51:
 
 if __name__ == '__main__':
     job51 = Job51()
-    #job51.start(u'上海', 'python')
-    #job51.start(u'上海', 'java')
-    #job51.start(u'上海', 'c++')
-    #job51.start(u'上海', u'人工智能')
-    #job51.start(u'上海', u'大数据')
-    job51.start(u'上海', u'web后端', exactly=False)
+    job51.start(u'上海', 'python')
+    # job51.start(u'上海', 'java')
+    # job51.start(u'上海', 'c++')
+    # job51.start(u'上海', u'人工智能')
+    # job51.start(u'上海', u'大数据')
+    # job51.start(u'上海', u'web后端', exactly=False)
